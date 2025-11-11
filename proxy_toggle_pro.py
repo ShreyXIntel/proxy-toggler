@@ -14,13 +14,13 @@ import os
 # Default Proxy Configurations
 DEFAULT_PROXIES = [
     {
-        "name": "Office Proxy",
-        "server": "http://proxy-example.corp.com:912",
+        "name": "Intel Proxy 1",
+        "server": "http://proxy-us.intel.com:912",
         "enabled": False
     },
     {
-        "name": "VPN Proxy",
-        "server": "http://vpn-proxy.example.com:8080",
+        "name": "Intel Proxy 2",
+        "server": "http://proxy-us.intel.com:911",
         "enabled": False
     }
 ]
